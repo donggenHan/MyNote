@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9335305f597dd17e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/C++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "93c00f8cc6d52010",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "language/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "language/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux.md"
+                "file": "language/C++.md"
               }
             }
           }
@@ -146,12 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7886e8b09a93575d",
+  "active": "9335305f597dd17e",
   "lastOpenFiles": [
+    "Linux/Linux.md",
+    "language/C++.md",
+    "language",
     "README.md.txt",
     "新建 文本文档.txt",
     "Welcome.md",
-    "Linux/Linux.md",
     "Linux"
   ]
 }
