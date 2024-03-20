@@ -74,6 +74,7 @@ float f = reinterpret_cast<float&>(i); // 重新解释将int类型转换为float
 
 ## 1.5 C++变量
 - 变量：程序可操作的存储区的名称。
+- 变量定义就是告诉编译器在何处创建变量的存储，以及如何创建变量的存储。
 
 ![[Pasted image 20240320195158.png]]
 1. 整数类型（Integer Types）：
