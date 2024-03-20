@@ -135,7 +135,7 @@ float f = reinterpret_cast<float&>(i); // 重新解释将int类型转换为float
 
 - C++ 中的类型限定符
 	- const：const 定义常量，表示该变量的值不能被修改。 
-	- volatile： volatile 告诉该变量的值可能会被程序以外的因素改变，如硬件或其他线程。。 
+	- volatile： volatile 告诉该变量的值可能会被**程序以外的因素改变**，如硬件或其他线程
 	- restrict：restrict 修饰的指针是唯一一种访问它所指向的对象的方式。只有 C99 增加了新的类型限定符 restrict。 
 	- mutable：表示类中的成员变量可以在 const 成员函数中被修改。 
 	- static：用于定义静态变量，表示该变量的作用域仅限于当前文件或当前函数内，不会被其他文件或函数访问。
