@@ -52,3 +52,10 @@ enum 枚举名{
 int i = 10; 
 float f = static_cast<float>(i);//int -> float
 ```
+-  动态转换（Dynamic Cast）: 常用于将一个基类指针或引用转换为派生类指针或引用。动态转换在运行时进行类型检查，如果不能进行转换则返回空指针或引发异常
+```
+class Base {}; 
+class Derived : public Base {}; 
+Base* ptr_base = new Derived; 
+Derived* ptr_derived = dynamic_cast<Derived*>(ptr_base); // 将基类指针转换为派生类指针
+```
