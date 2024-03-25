@@ -33,6 +33,8 @@ I always had an existential crisis, because I was trying  to figure out 'what do
 
 And I came to conclusion that if we can advance the knowledge of the world, If we can do things that expand the scope and scale of consciousness, then we're better able to ask the right questions and become more enlightened, And that's the only way forward.
 
-So I studied physics and business, because I figured in order to do a lot of these things you need to know how the un
+So I studied physics and business, because I figured in order to do a lot of these things you need to know how the universe works and you need to know how the economy works;
+
+And you also need to be able to bring a lot of people together to work with you to create something Because it's very difficult to do something as individuals if it's a significant technology
 
 
