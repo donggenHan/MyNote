@@ -19,6 +19,16 @@ If you go back say, 300years, the things we take for granted today, you'd be bur
 
 Being able to see over long distances, being able to communicate, having effectively with the Internet as a group mind of sorts;
 
-And having access to all the world's information
+And having access to all the world's information, instantly from almost anywhere on the earth;
+
+This stuff that really would be magic - that would be considered magic in times past;
+
+In fact, I think it actually goes beyond that, because there are many things that we take for granted today that weren't even imagined;
+
+In times past, that weren't even in the realm of magic, So it actually goes beyond that;
+
+So I thought, well if I can do some of those things basically if I can advance technology, then that is like magic and that would be really cool;
+
+
 
 
