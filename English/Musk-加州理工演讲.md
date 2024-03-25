@@ -29,6 +29,10 @@ In times past, that weren't even in the realm of magic, So it actually goes beyo
 
 So I thought, well if I can do some of those things basically if I can advance technology, then that is like magic and that would be really cool;
 
+I always had an existential crisis, because I was trying  to figure out 'what does all mean?', likes 'what is the purpose of the things';
 
+And I came to conclusion that if we can advance the knowledge of the world, If we can do things that expand the scope and scale of consciousness, then we're better able to ask the right questions and become more enlightened, And that's the only way forward.
+
+So I studied physics and business, because I figured in order to do a lot of these things you need to know how the un
 
 
