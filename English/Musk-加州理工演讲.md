@@ -13,7 +13,12 @@ when i was young, I didn't  really know what I was going to do when I got older;
 
 People kept asking me, But then eventually I thought the idea of inventing things would be really cool;
 
-And the reason I thought that was because I read a quote from Arthur C. Clark which said th
+And the reason I thought that was because I read a quote from Arthur C. Clark which said that "A sufficiently advanced technology is indistinguishable from magic ", And that's really true
 
+If you go back say, 300years, the things we take for granted today, you'd be burned at stake for, Being able to fly, That's crazy;
+
+Being able to see over long distances, being able to communicate, having effectively with the Internet as a group mind of sorts;
+
+And having access to all the world's information
 
 
