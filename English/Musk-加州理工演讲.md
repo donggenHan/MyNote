@@ -37,4 +37,6 @@ So I studied physics and business, because I figured in order to do a lot of the
 
 And you also need to be able to bring a lot of people together to work with you to create something Because it's very difficult to do something as individuals if it's a significant technology
 
+So, I originally came out to California to try to figure out how to improve the energu density of electric vechicles basically to try to figure out if there was an advanced capacitor that could serve as an alternative to batteries.
 
+And that was in 1995, That's also the internet started to happen, And I thought well I coudl either pursue this technology, 
