@@ -47,4 +47,11 @@ And I did some Internet stuff, You know, I've done a few things here and there.
 
 One of which is PayPal, Maybe it's helpful to say, one of the things that was important then in the creation of PayPal was how it started. 
 
+Because the initial thought with PayPal was to create a conglomeration of financial services, So if you have one place where all of your financial services needs could be seamlessly intergrated and works smoothly.
 
+And we had a little feature, which was throught e-mail payments.
+
+Whenever we'd show the system off to someone, we'd show the hard part, which was the conglomeration of financial services, which is quite difficult to put together.
+Nobody was interested.
+
+Then we showed people e-mail payments, which was quiet easy, and everybody w
