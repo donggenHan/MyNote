@@ -39,4 +39,12 @@ And you also need to be able to bring a lot of people together to work with you 
 
 So, I originally came out to California to try to figure out how to improve the energu density of electric vechicles basically to try to figure out if there was an advanced capacitor that could serve as an alternative to batteries.
 
-And that was in 1995, That's also the internet started to happen, And I thought well I coudl either pursue this technology, 
+And that was in 1995, That's also the internet started to happen, And I thought well I coudl either pursue this technology, where success may not be one of the possible outcomes, which is always tricky, Or participate in the Internet and be part of it, So, I decided to drop out.
+
+Fortunately, We're past graduation, So, I can't be accused of recommending that to you.
+
+And I did some Internet stuff, You know, I've done a few things here and there.
+
+One of which is PayPal, Maybe it's helpful to say, one of the things that was important then in the creation of PayPal was how it started. 
+
+
