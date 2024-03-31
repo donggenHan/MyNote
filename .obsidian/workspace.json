@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "language/C++.md",
+                "file": "English/Musk-加州理工演讲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "language/C++.md",
+                "file": "English/Musk-加州理工演讲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "language/C++.md"
+                "file": "English/Musk-加州理工演讲.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b60da0303e935103",
+  "active": "d149e8f57f327c76",
   "lastOpenFiles": [
-    "English/Musk-加州理工演讲.md",
     "language/C++.md",
+    "English/Musk-加州理工演讲.md",
     "English/未命名",
     "English",
     "language/Pasted image 20240320195158.png",
