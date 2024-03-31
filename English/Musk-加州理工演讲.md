@@ -86,4 +86,4 @@ But then, I thought, well, what is a way to increase NASA's budget?
 
 That was actually my initial goal.
 
-I thought well if we could do a low-cost
+I thought well if we could do a low-cost mission to Mars, 
