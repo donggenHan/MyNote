@@ -78,4 +78,12 @@ And the other one being the extension of Life beyond earth to make life multi-pl
 
 So, that's the basis for -- the latter is the basis for SpaceX and the format is the basis for Tesla and SolarCity. 
 
-When I started SpaceX, initially, I thought that 
+When I started SpaceX, initially, I thought that well, there's no way one could start a rocket company.
+
+I wasn't that crazy.
+
+But then, I thought, well, what is a way to increase NASA's budget?
+
+That was actually my initial goal.
+
+I thought well if we could do a low-cost
