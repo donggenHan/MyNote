@@ -72,4 +72,10 @@ So, the biggest terrestrial problem wa've got is sustainable energy.
 
 But the production and consumption of energy in a sustainable manner.
 
-If
+If we dont solve that in this century, we're in deep trouble.
+
+And the other one being the extension of Life beyond earth to make life multi-planetary.
+
+So, that's the basis for -- the latter is the basis for SpaceX and the format is the basis for Tesla and SolarCity. 
+
+When I started SpaceX, initially, I thought that 
