@@ -64,4 +64,12 @@ But, if we hadn't responded to what people said, then we probably would not have
 
 So, it's important  to look for things like that and focus on them when you seem them, and you correct your prior assumptions.
 
-Going from Paypal, 
+Going from Paypal, I thought well what are some of the other problems that are likely to most affect the future of humanity?
+
+It really wasn't from the perspective of, 'what's the best way to make money,which is okay, But it was really' what do I think is going to most affect the future of humanity.'
+
+So, the biggest terrestrial problem wa've got is sustainable energy.
+
+But the production and consumption of energy in a sustainable manner.
+
+If
