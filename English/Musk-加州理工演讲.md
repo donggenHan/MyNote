@@ -54,4 +54,14 @@ And we had a little feature, which was throught e-mail payments.
 Whenever we'd show the system off to someone, we'd show the hard part, which was the conglomeration of financial services, which is quite difficult to put together.
 Nobody was interested.
 
-Then we showed people e-mail payments, which was quiet easy, and everybody w
+Then we showed people e-mail payments, which was quiet easy, and everybody was interested.
+
+So, I think it's important to take feedback from your envirment. You want to be as closed-loop as possible.
+
+So, we focused on e-mail payment and tried to make that work. And that's what really got things to take off.
+
+But, if we hadn't responded to what people said, then we probably would not have been successful.
+
+So, it's important  to look for things like that and focus on them when you seem them, and you correct your prior assumptions.
+
+Going from Paypal, 
