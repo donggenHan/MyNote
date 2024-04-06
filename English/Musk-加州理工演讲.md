@@ -118,4 +118,16 @@ In fact, there's plenty of will, particularly in the United States.
 
 Because United States is a nation of explorers, so people who came here from other parts of the world.
 
-I think the United States is 
+I think the United States is really a distillation of the spirit of human exploration.
+
+But if people think it's impossible, then well it's going to completely break the federal budget, then they're not going to do it.
+
+So, after my third trip, I said, okay, what we really need to do here is try to solve the space transport problem and started SpaceX.
+
+And this was against the advice of pretty much everyone I talked to.
+
+One friend made sit down and watch a bunch of videos of rockets blowing up.
+
+Let me tell you he wasn't far wrong. It was tough going there in the beginning.
+
+Because I n
