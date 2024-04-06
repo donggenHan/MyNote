@@ -96,3 +96,16 @@ And this would be the first life on Mars and the furthest life had ever traveled
 
 And I thought well that would get people really excited and increase NASA's budget.
 
+So obviously the financial outcome from such a mission would probably be 0.
+
+So, anything better than that was on the upside.
+
+So, I went to Russia three times to look at buying a refurbished ICBM because that was the best deal.
+
+And I can tell you it was very weird going there in late 2001-2002 going to the Russian rocket forces and saying, I'd like to buy two of your biggest rockets, but you can keep the nuke(核弹).
+
+That's a lot more.
+
+That was 10 years ago, I guess.
+
+They thought I was crazy, but I did
