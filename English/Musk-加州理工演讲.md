@@ -130,4 +130,18 @@ One friend made sit down and watch a bunch of videos of rockets blowing up.
 
 Let me tell you he wasn't far wrong. It was tough going there in the beginning.
 
-Because I n
+Because I never bulit anything physical.
+
+I mean I built like a model rocket as a kid and that kinde of thing.
+
+But I never had a company that built any physical.
+
+So, I had to figure out how to do all these things and bring together the right team of people.
+
+And we did all that, and then, failed three times. It was tough, tough going.
+
+Because the thing about a rocket is, the passing grade is 100%.
+
+And you don't get to actually test the rocket in the real environment that is going to be in. 
+
+So, I think to the best analogy for rocket engineers is, if you want to creat a really complicated be
