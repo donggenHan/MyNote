@@ -144,4 +144,16 @@ Because the thing about a rocket is, the passing grade is 100%.
 
 And you don't get to actually test the rocket in the real environment that is going to be in. 
 
-So, I think to the best analogy for rocket engineers is, if you want to creat a really complicated be
+So, I think to the best analogy for rocket engineers is, if you want to creat a really complicated beta software, you can't run the software as an integrated whole, and you can't run it on the computer, it's intended to run on.
+
+For the first time you put it all together and run it on that computer, it must run with no bugs.
+
+That's basically the essence of it.
+
+So, we missed the mark there.
+
+The first launch, I was picking up bits of rocket near the launch site, it was bit sad.
+
+And we learned with each successive flight.
+
+And we were able to
