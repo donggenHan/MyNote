@@ -156,4 +156,13 @@ The first launch, I was picking up bits of rocket near the launch site, it was b
 
 And we learned with each successive flight.
 
-And we were able to
+And we were able to eventually with the fourth flight in 2008, reach orbit.
+
+That was also with the last bit of money that we had.
+
+Thank goodness that happened.
+
+I think the saying is fourth time is the charm?
+
+So, We got the Falcon 1 to orbit.
+
