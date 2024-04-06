@@ -86,4 +86,13 @@ But then, I thought, well, what is a way to increase NASA's budget?
 
 That was actually my initial goal.
 
-I thought well if we could do a low-cost mission to Mars, 
+I thought well if we could do a low-cost mission to Mars,  something called Mars Oasis, which would land with seeds in dehydrated nutrient gel(脱水营养凝胶), then hydrate them upon landing.
+
+And you'd have this great short of money shot of green plants on a red background.
+
+The public tends to respond to precedence and superlatives.
+
+And this would be the first life on Mars and the furthest life had ever traveled as fa as we know.
+
+And I thought well that would get people really excited and increase NASA's budget.
+
