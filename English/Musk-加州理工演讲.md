@@ -108,4 +108,14 @@ That's a lot more.
 
 That was 10 years ago, I guess.
 
-They thought I was crazy, but I did
+They thought I was crazy, but I did have money. So, that was okay.
+
+After making several trips to Russia, I came to the conclusion that actually my initial impression was wrong about because my initial thought was, well, that there is not enough will to explore and expand beyond earth and have a Marsbase that kind of thing.
+
+But I came to the conclusion that was wrong.
+
+In fact, there's plenty of will, particularly in the United States.
+
+Because United States is a nation of explorers, so people who came here from other parts of the world.
+
+I think the United States is 
