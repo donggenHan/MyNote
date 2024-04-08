@@ -170,12 +170,16 @@ float f = reinterpret_cast<float&>(i); // 重新解释将int类型转换为float
 | 5   | **strchr(s1, ch);**  <br>返回一个指针，指向字符串 s1 中字符 ch 的第一次出现的位置。                                                                                               |
 | 6   | **strstr(s1, s2);**  <br>返回一个指针，指向字符串 s1 中字符串 s2 的第一次出现的位置。                                                                                              |
 
-### C String and C++ String
+### !!! C String and C++ String
 ```c++
 void myFunc(){
-	String str = "hi" + "C++";//error, "hi" and "C++" is C Str
+	String str1 = "hi" + "C++";//error, "hi" and "C++" is C String which have no methods
+	String str2 = "hi" + '!';  //warning, c String plus char type -> garbage
 }
 ```
+
+- You need to convert the C String to C++ String, You can use a convert function
+	- string("hi")
 
 ## 1.8 C++指针和引用
 - &取地址符
