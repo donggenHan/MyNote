@@ -151,15 +151,21 @@ float f = reinterpret_cast<float&>(i); // 重新解释将int类型转换为float
 - 对匿名函数的支持,称为 Lambda 函数(也叫 Lambda 表达式)。
 - Lambda 表达式把函数看作对象。Lambda 表达式可以像对象一样使用，比如可以将它们赋给变量和作为参数传递，还可以像函数一样对其求值。
 
-## 1.7 C++ 字符串
-|序号|函数 & 目的|
-|---|---|
-|1|**strcpy(s1, s2);**  <br>复制字符串 s2 到字符串 s1。|
-|2|**strcat(s1, s2);**  <br>连接字符串 s2 到字符串 s1 的末尾。连接字符串也可以用 + 号，例如:  <br><br>string str1 = "runoob";<br>string str2 = "google";<br>string str = str1 + str2;|
-|3|**strlen(s1);**  <br>返回字符串 s1 的长度。|
-|4|**strcmp(s1, s2);**  <br>如果 s1 和 s2 是相同的，则返回 0；如果 s1<s2 则返回值小于 0；如果 s1>s2 则返回值大于 0。|
-|5|**strchr(s1, ch);**  <br>返回一个指针，指向字符串 s1 中字符 ch 的第一次出现的位置。|
-|6|**strstr(s1, s2);**  <br>返回一个指针，指向字符串 s1 中字符串 s2 的第一次出现的位置。|
+## 1.7 C++ 字符串String
+
+- Strings are mutable in C++
+- You can add characters to Strings and Strings to Strings using **+= or +**
+	- Strings must use double quotes"" and characters use single'' 
+- 
+
+| 序号  | 函数 & 目的                                                                                                                                                  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **strcpy(s1, s2);**  <br>复制字符串 s2 到字符串 s1。                                                                                                               |
+| 2   | **strcat(s1, s2);**  <br>连接字符串 s2 到字符串 s1 的末尾。连接字符串也可以用 + 号，例如:  <br><br>string str1 = "runoob";<br>string str2 = "google";<br>string str = str1 + str2; |
+| 3   | **strlen(s1);**  <br>返回字符串 s1 的长度。                                                                                                                       |
+| 4   | **strcmp(s1, s2);**  <br>如果 s1 和 s2 是相同的，则返回 0；如果 s1<s2 则返回值小于 0；如果 s1>s2 则返回值大于 0。                                                                      |
+| 5   | **strchr(s1, ch);**  <br>返回一个指针，指向字符串 s1 中字符 ch 的第一次出现的位置。                                                                                               |
+| 6   | **strstr(s1, s2);**  <br>返回一个指针，指向字符串 s1 中字符串 s2 的第一次出现的位置。                                                                                              |
 
 ## 1.8 C++指针和引用
 - &取地址符
