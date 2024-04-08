@@ -5,7 +5,7 @@
 - 多态（Polymorphism）：多态是指同一种操作作用于不同的对象，可以有不同的解释和实现。它可以通过接口或继承实现，可以提高代码的灵活性和可读性。
 - 抽象（Abstraction）：抽象是从具体的实例中提取共同的特征，形成抽象类或接口，以便于代码的复用和扩展。抽象类和接口可以让程序员专注于高层次的设计和业务逻辑，而不必关注底层的实现细节。
 
-## C++运行原理
+## C++ compilation process
 When you write a program in C++, your first step is to create a file that contains the text of the program, which is called a **sourcefile**. Before you can run your program, you need to translate the source file into an executable form. The first step in that process is to invoke a program called a **compiler**, which translates the source file into an objectfile containing the corresponding **machine-language instructions**. This object file is then combined with other object files to produce an **executablefile** that can be run on the system. The other object files typically include predefined object files called libraries that contain the machine-language instructions for various operations commonly required by programs. The process of combining all the individual object files into an executable file is called **linking**.
 ![[Pasted image 20240408193816.png]]
 
@@ -17,7 +17,7 @@ When you write a program in C++, your first step is to create a file that contai
 2. C++ 标准库，提供了大量的函数，用于操作文件、字符串等。
 3. 标准模板库（STL），提供了大量的方法，用于操作数据结构等。
 
-## 1.3 C++注释
+## 1.3 C++注释Comments
 - // - 一般用于单行注释。
     
 - /* ... * /  - 一般用于多行注释。
