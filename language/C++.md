@@ -156,7 +156,7 @@ float f = reinterpret_cast<float&>(i); // 重新解释将int类型转换为float
 - Strings are mutable in C++
 - You can add characters to Strings and Strings to Strings using **+= or +**
 	- Strings must use double quotes"" and characters use single'' 
-- 
+- You can use logical operator to compare the Strings
 
 | 序号  | 函数 & 目的                                                                                                                                                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
