@@ -158,6 +158,9 @@ float f = reinterpret_cast<float&>(i); // 重新解释将int类型转换为float
 	- Strings must use double quotes"" and characters use single'' 
 - You can use logical operator to compare the Strings
 
+![[Pasted image 20240408214734.png]]
+![[Pasted image 20240408214750.png]]
+
 | 序号  | 函数 & 目的                                                                                                                                                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **strcpy(s1, s2);**  <br>复制字符串 s2 到字符串 s1。                                                                                                               |
