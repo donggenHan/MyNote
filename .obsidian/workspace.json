@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "046bafb979d13c06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d149e8f57f327c76",
+  "active": "046bafb979d13c06",
   "lastOpenFiles": [
     "language/C++.md",
     "English/Musk-加州理工演讲.md",
