@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13e8feac2b54b441",
+        "id": "eaa6a8e5812d2eb0",
         "type": "tabs",
         "children": [
           {
-            "id": "b60da0303e935103",
+            "id": "6d23436a98b25999",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "language/C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d149e8f57f327c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Musk-加州理工演讲.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,14 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b60da0303e935103",
+  "active": "6d23436a98b25999",
   "lastOpenFiles": [
-    "Pasted image 20240408214750.png",
-    "Pasted image 20240408214734.png",
     "language/Pasted image 20240320195158.png",
+    "language/Pasted image 20240408193816.png",
     "language/C++.md",
     "English/Musk-加州理工演讲.md",
-    "language/Pasted image 20240408193816.png",
+    "Pasted image 20240408214734.png",
+    "Pasted image 20240408214750.png",
     "English/未命名",
     "English",
     "Linux/Linux.md",
