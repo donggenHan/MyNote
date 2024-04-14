@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "93c00f8cc6d52010",
@@ -146,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d23436a98b25999",
+  "active": "7cdcad7dd52dee8e",
   "lastOpenFiles": [
+    "Pasted image 20240414142826.png",
     "language/Pasted image 20240320195158.png",
     "language/Pasted image 20240408193816.png",
     "language/C++.md",
