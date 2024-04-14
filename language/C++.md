@@ -198,4 +198,9 @@ void myFunc(){
 ## 2.1 Vector
 >What is a Vector?
 
-- A vector is a
+- A vector is an ordered collection of elements of the same type that can grow and shrink(缩小) in size.
+	- Each element in the collection has a specific location, or index.
+	- All elements in vector must be of the same type.
+	- Vectors are flexible when it comes to the number of elements they can store, Vectors also know their size.
+- Defined in the "vector.h" header file
+- 
