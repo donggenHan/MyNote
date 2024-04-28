@@ -180,5 +180,17 @@ And I hope that some of you will participate in that either at SpaceX or other c
 
 Because it's just really one of the important things for the preservation and extension of consciousness.
 
- It's worth nothing as I'm sure prople are aware that Earth has been around for 
+ It's worth nothing as I'm sure prople are aware that Earth has been around for 4 billion years, but civilization in terms of having writing has been about 10000 years, and that's been generous.
+
+ So it's really somewhat of a tenuous existence that civilization and consciousness has been on earth.
+
+ I'm actually fairly optimistic about the future of earth.
+
+I don't want to people sort of have the wrong impression like we're all about to die. 
+
+I think things will most likely be ok for a long time on earth.
+
+Not for sure but, most likely.
+
+But even if it's 99% likely, a 1% chance is still worth spending a fair bit of effe
 
