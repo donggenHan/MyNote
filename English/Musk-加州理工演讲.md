@@ -212,4 +212,14 @@ And it's amazing how even though you can show that something works on paper, and
 
 So that I think is something worth nothing.
 
-If you're going to create a company, the first thing you should try to do is create
+If you're going to create a company, the first thing you should try to do is create a working prototype.
+
+Everything looks great on powerpoint.
+
+You can make anything work on PowerPoint.
+
+But, If you have an actual demonstration article, even if it's in primitive form, that's much more effective in convincing people.
+
+So, we made the Tesla Roadster, and now we're coming out soon with model S which is a 4-door sedan.
+
+Because after we made the Tesla Roadster people said, 'oh sure, we always knew you could make a car like that, it's an expensive car and it's low volume and small and 
