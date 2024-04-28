@@ -168,5 +168,17 @@ So, We got the Falcon 1 to orbit. And then, began to scale it up to the Falcon 9
 
 We managed to get that to orbit, and then developed the Dragon spacecraft, which recently was able to dock and returned to earth from the space station.
 
-That was.. 
+That was a white-knuckle event.
+
+It is a huge relief. I still can't believe it actually happened.
+
+But there's lot more that must happen beyond this in order for humanity to become a spacefaring civilization and ultimately a multi-planet species.
+
+And that's something I think it's vitally important.
+
+And I hope that some of you will participate in that either at SpaceX or other companies.
+
+Because it's just really one of the important things for the preservation and extension of consciousness.
+
+ It's worth nothing as I'm sure prople are aware that Earth has been around for 
 
