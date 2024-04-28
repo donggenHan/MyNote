@@ -222,4 +222,18 @@ But, If you have an actual demonstration article, even if it's in primitive form
 
 So, we made the Tesla Roadster, and now we're coming out soon with model S which is a 4-door sedan.
 
-Because after we made the Tesla Roadster people said, 'oh sure, we always knew you could make a car like that, it's an expensive car and it's low volume and small and 
+Because after we made the Tesla Roadster people said, 'oh sure, we always knew you could make a car like that, it's an expensive car and it's low volume and small and all that but can you make a real car?
+
+Okay, fine, we're going to make that, too.
+
+So, that's coming out soon.
+
+And so that's where things are and hopefully, there are some lessons to be drawn there.
+
+I think the overreaching point I want to make is that: You guys are the magicians of the 21st century.
+
+Don't let anything hold you back. 
+
+Imagination is the limit.
+
+Go out there and create some magic.
