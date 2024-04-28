@@ -164,5 +164,9 @@ Thank goodness that happened.
 
 I think the saying is fourth time is the charm?
 
-So, We got the Falcon 1 to orbit.
+So, We got the Falcon 1 to orbit. And then, began to scale it up to the Falcon 9 which is about an order of magnitude more thrust, it's around a million pounds of thrust.
+
+We managed to get that to orbit, and then developed the Dragon spacecraft, which recently was able to dock and returned to earth from the space station.
+
+That was.. 
 
