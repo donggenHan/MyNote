@@ -202,4 +202,14 @@ But that's the sort of the thing that we're going to try to achieve with SpaceX.
 
 And  then, on the Tesla front, the goal with Tesla was really to try to show what electric cars can do.
 
-Because people had the wrong impression and we had to change people's 
+Because people had the wrong impression and we had to change people's perceptions of electric vehicle.
+
+Because they used to think of it as something that was slow and ugly, with low range, like a golf cart.
+
+So, that's why we created the Tesla Roadster, to show that it can be fast, attractive and long range.
+
+And it's amazing how even though you can show that something works on paper, and the calculations are very clear, until you actually have the physical object, and you can drive it, it doesn't really sink in for people.
+
+So that I think is something worth nothing.
+
+If you're going to create a company, the first thing you should try to do is create
