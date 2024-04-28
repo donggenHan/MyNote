@@ -192,5 +192,14 @@ I think things will most likely be ok for a long time on earth.
 
 Not for sure but, most likely.
 
-But even if it's 99% likely, a 1% chance is still worth spending a fair bit of effe
+But even if it's 99% likely, a 1% chance is still worth spending a fair bit of effort to ensure that we have back up the biosphere, and planetary redundancy if you will.
 
+And I think it's really quite important.
+
+And in order to do that, there's breakthrough that needs to occur which is to create a rapidly and completely reusable transport system to Mars, Which is one of those things that's right on the borderline of even impossible.
+
+But that's the sort of the thing that we're going to try to achieve with SpaceX.
+
+And  then, on the Tesla front, the goal with Tesla was really to try to show what electric cars can do.
+
+Because people had the wrong impression and we had to change people's 
