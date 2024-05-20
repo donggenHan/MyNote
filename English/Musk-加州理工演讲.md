@@ -23,6 +23,8 @@ And having access to all the world's information, instantly from almost anywhere
 
 This stuff that really would be magic - that would be considered magic in times past;
 
+-------------------------------------------------------------------------
+
 In fact, I think it actually goes beyond that, because there are many things that we take for granted today that weren't even imagined;
 
 In times past, that weren't even in the realm of magic, So it actually goes beyond that;
