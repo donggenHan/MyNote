@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Musk-加州理工演讲.md",
+                "file": "Linux/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Musk-加州理工演讲.md",
+                "file": "Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Musk-加州理工演讲.md",
+                "file": "Linux/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Musk-加州理工演讲.md"
+                "file": "Linux/Linux.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "6d23436a98b25999",
   "lastOpenFiles": [
-    "language/Python.md",
-    "language/C++.md",
-    "language/Pasted image 20240320195158.png",
-    "English/Musk-加州理工演讲.md",
     "Pasted image 20240414142826.png",
+    "Linux/Linux.md",
+    "language/C++.md",
+    "English/Musk-加州理工演讲.md",
+    "language/Python.md",
+    "language/Pasted image 20240320195158.png",
     "language/Pasted image 20240408193816.png",
     "Pasted image 20240408214734.png",
     "Pasted image 20240408214750.png",
     "English/未命名",
     "English",
-    "Linux/Linux.md",
     "language",
     "README.md.txt",
     "新建 文本文档.txt",
