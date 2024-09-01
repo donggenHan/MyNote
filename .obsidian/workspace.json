@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "93c00f8cc6d52010",
@@ -147,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d23436a98b25999",
+  "active": "7cdcad7dd52dee8e",
   "lastOpenFiles": [
     "English/Musk-加州理工演讲.md",
     "English/Spoken English.md",
