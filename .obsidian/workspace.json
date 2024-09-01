@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "language/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "language/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "language/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux.md"
+                "file": "language/C++.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "6d23436a98b25999",
   "lastOpenFiles": [
-    "Pasted image 20240414142826.png",
+    "language/Pasted image 20240320195158.png",
+    "language/Pasted image 20240408193816.png",
     "Linux/Linux.md",
+    "Pasted image 20240414142826.png",
     "language/C++.md",
     "English/Musk-加州理工演讲.md",
     "language/Python.md",
-    "language/Pasted image 20240320195158.png",
-    "language/Pasted image 20240408193816.png",
     "Pasted image 20240408214734.png",
     "Pasted image 20240408214750.png",
     "English/未命名",
