@@ -18,7 +18,12 @@ WHY:My friends wanted to meet up for dinner
 :Satisfied, Exhausted...
 
 ### STEP 2: Think about what you ate today and how it tased?
+Spicy, Salty
+Fried chicken, cucumber with chicken wings
 
-### STEP 3: write a sentense about something that happened to you at launchtime
+### STEP 3: write a sentense about something that happened to you at launchtime(Who, What, When, Where, Why)
 
-### STEP 4: write 3 details about someone you spoke to or someone you met(clothing, per)
+
+### STEP 4: write 3 details about someone you spoke to or someone you met(clothing, personality, Job)
+
+### STEP 5: write a sentense about what type of the day you had
