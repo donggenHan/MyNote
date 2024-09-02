@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac587f9ad318cb24",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7cdcad7dd52dee8e",
+  "active": "ac587f9ad318cb24",
   "lastOpenFiles": [
     "English/Musk-加州理工演讲.md",
     "English/Spoken English.md",
