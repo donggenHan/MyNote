@@ -23,9 +23,11 @@
             "id": "ac587f9ad318cb24",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "English/Spoken English.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
