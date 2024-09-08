@@ -23,6 +23,8 @@ date +%H:%M
 
 - 显示日历的指令： cal
 - 简单好用的计算机： bc
+- 惯用的关机指令： shutdown
+- 重新开机，关机： reboot, halt, poweroff
 
 ## 1.1.3 按键
 [TAB]：具有“命令补全”与“文件补齐”的功能
