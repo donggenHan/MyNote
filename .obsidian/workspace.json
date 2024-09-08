@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "English/Spoken English.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "English/Spoken English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "English/Spoken English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux.md"
+                "file": "English/Spoken English.md"
               }
             }
           }
@@ -163,12 +163,12 @@
   "lastOpenFiles": [
     "English/English sentense.md",
     "English/Spoken English.md",
+    "Linux/Linux.md",
     "English/Musk-加州理工演讲.md",
     "language/Python.md",
     "language/C++.md",
     "language/Pasted image 20240320195158.png",
     "language/Pasted image 20240408193816.png",
-    "Linux/Linux.md",
     "Pasted image 20240414142826.png",
     "Pasted image 20240408214734.png",
     "Pasted image 20240408214750.png",
