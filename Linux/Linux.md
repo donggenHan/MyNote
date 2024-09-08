@@ -34,3 +34,33 @@ date +%H:%M
 	- 若安装 bash-completion 软件，则在某些指令后面使用 [tab] 按键时，可以进行“选项/参数的补齐”功能！
 
 CTRL+C：中断
+
+# 2. Linux 文件权限
+- ls -al：查看文件及权限
+```
+[dmtsai@study ~]$ su -  # 先来切换一下身份看看
+Password:
+Last login: Tue Jun  2 19:32:31 CST 2015 on tty2
+[root@study ~]# ls -al
+total 48
+dr-xr-x---.  5    root     root    4096  May 29 16:08 .
+dr-xr-xr-x. 17    root     root    4096  May  4 17:56 ..
+-rw-------.  1    root     root    1816  May  4 17:57 anaconda-ks.cfg
+-rw-------.  1    root     root     927  Jun  2 11:27 .bash_history
+-rw-r--r--.  1    root     root      18  Dec 29  2013 .bash_logout
+-rw-r--r--.  1    root     root     176  Dec 29  2013 .bash_profile
+-rw-r--r--.  1    root     root     176  Dec 29  2013 .bashrc
+drwxr-xr-x.  3    root     root      17  May  6 00:14 .config               &lt;=范例说明处
+drwx------.  3    root     root      24  May  4 17:59 .dbus
+-rw-r--r--.  1    root     root    1864  May  4 18:01 initial-setup-ks.cfg  &lt;=范例说明处
+[    1    ][  2 ][   3  ][  4 ][    5   ][    6     ] [       7          ]
+[  权限   ][链接][拥有者][群组][文件大小][ 修改日期 ] [      文件名        ]
+
+dr-xr-x---.  5    root     root    4096  May 29 16:08 .
+d:文件类型，此处是目录
+r-x:拥有着权限，可读不可写可执行
+r-x:所属群属权限
+---：其他人权限
+5：链接数
+root:
+```
