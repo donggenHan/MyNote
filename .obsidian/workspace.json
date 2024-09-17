@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/雅思.md",
+                "file": "Linux/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/雅思.md",
+                "file": "Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/雅思.md",
+                "file": "Linux/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/雅思.md"
+                "file": "Linux/Linux.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "17e467f8504e2146",
   "lastOpenFiles": [
+    "English/雅思.md",
     "Pasted image 20240908140304.png",
     "Pasted image 20240908140156.png",
     "Pasted image 20240908140114.png",
     "English/Spoken English.md",
-    "English/雅思.md",
     "English/English sentense.md",
     "Linux/Linux.md",
     "English/Musk-加州理工演讲.md",

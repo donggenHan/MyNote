@@ -68,3 +68,13 @@ root:所属群属
 May 29 16:08:修改时间
 ```
 
+改变文件权限：
+- chgrp ：改变文件所属群组
+- chown ：改变文件拥有者
+- chmod ：改变文件的权限, SUID, SGID, SBIT等等的特性
+
+```
+[root@study ~]# chgrp users initial-setup-ks.cfg
+
+
+```
