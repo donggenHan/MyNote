@@ -6,6 +6,14 @@
  - `git status`命令可以让我们时刻掌握仓库当前的状态
  - `git diff`就是查看difference
  - `git log`命令显示从最近到最远的提交日志
+ - Git中，用`HEAD`表示当前版本，上一个版本就是`HEAD^`，上上一个版本就是`HEAD^^`，往上100个版本`HEAD~100`。
+ - 回退到上一个版本，就可以使用`git reset`命令
+ ```plain
+git reset --hard HEAD^
+`--hard`会回退到上个版本的已提交状态
+`--soft`会回退到上个版本的未提交状态
+`--mixed`会回退到上个版本已添加但未提交的状态。
+```
 # Chapter 1. Repositories and Branches
 - The best way to get one is by using the **git-clone** command to download a copy of an existing repository.
 ```
