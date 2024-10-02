@@ -17,7 +17,16 @@ git reset --hard HEAD^
 - `HEAD`指向的版本就是当前版本，因此，Git允许我们在版本的历史之间穿梭，使用命令`git reset --hard commit_id`
 - 用`git reflog`查看命令历史，以便确定要回到未来的哪个版本
 
-Git和其他版本控制系统如SVN的一个不同之处就是有暂存区的概念
+
+## Git 版本库
+
+- Git和其他版本控制系统如SVN的一个不同之处就是有暂存区的概念
+- Git的版本库里存了很多东西，其中最重要的就是称为stage（或者叫index）的暂存区，还有Git为我们自动创建的第一个分支`master`，以及指向`master`的一个指针叫`HEAD`。
+
+1. 第一步是用`git add`把文件添加进去，实际上就是把文件修改添加到暂存区；
+2. 第二步是用`git commit`提交更改，实际上就是把暂存区的所有内容提交到当前分支。
+![[repo.png]]
+- 我们创建Git版本库时，Git自动为我们创建了唯一一个`master`分支，所以，现在，`git commit`就是往`master`分支上提交更改。
 
 # Chapter 1. Repositories and Branches
 - The best way to get one is by using the **git-clone** command to download a copy of an existing repository.
