@@ -1,3 +1,11 @@
+# Chapter 0. 常用命令
+1. 通过`git init`命令把这个目录变成Git可以管理的仓库：
+2. 用命令`git add`告诉Git，把文件添加到仓库：
+3. 用命令`git commit`告诉Git，把文件提交到仓库, `-m`后面输入的是本次提交的说明
+
+ - `git status`命令可以让我们时刻掌握仓库当前的状态
+ - `git diff`就是查看difference
+ - `git log`命令显示从最近到最远的提交日志
 # Chapter 1. Repositories and Branches
 - The best way to get one is by using the **git-clone** command to download a copy of an existing repository.
 ```
@@ -34,3 +42,4 @@ v2.6.13
 ```
 $ git switch -c new v2.6.13
 ```
+
