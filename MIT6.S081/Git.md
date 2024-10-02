@@ -28,6 +28,7 @@ git reset --hard HEAD^
 ![[repo.png]]
 - 我们创建Git版本库时，Git自动为我们创建了唯一一个`master`分支，所以，现在，`git commit`就是往`master`分支上提交更改。
 
+- Git跟踪并管理的是修改，而非文件。
 # Chapter 1. Repositories and Branches
 - The best way to get one is by using the **git-clone** command to download a copy of an existing repository.
 ```
