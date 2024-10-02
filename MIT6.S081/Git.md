@@ -14,3 +14,23 @@ $ git clone git://git.kernel.org/pub/scm/git/git.git
 $ git branch
 * master
 ```
+
+- Most projects also use [tags](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html#def_tag). Tags, like heads, are references into the project’s history, and can be listed using the [git-tag(1)](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-tag.html) command:
+```
+$ git tag -l
+v2.6.11
+v2.6.11-tree
+v2.6.12
+v2.6.12-rc2
+v2.6.12-rc3
+v2.6.12-rc4
+v2.6.12-rc5
+v2.6.12-rc6
+v2.6.13
+...
+```
+
+- Create a new branch head pointing to one of these versions and check it out using [git-switch(1)](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-switch.html)
+```
+$ git switch -c new v2.6.13
+```
