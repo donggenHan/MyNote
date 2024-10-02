@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac587f9ad318cb24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Spoken English.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43370601eb5e6b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Spoken English.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "17e467f8504e2146",
             "type": "leaf",
             "state": {
@@ -49,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "MIT6.S081/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "MIT6.S081/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "MIT6.S081/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "MIT6.S081/Git.md"
               }
             }
           }
@@ -183,11 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7cdcad7dd52dee8e",
+  "active": "908652d2826d96b9",
   "lastOpenFiles": [
-    "MIT",
+    "MIT6.S081",
     "Linux/Linux.md",
-    "未命名.md",
+    "MIT6.S081/Git.md",
     "Linux/MIT.md",
     "English/雅思.md",
     "Pasted image 20240908140304.png",
