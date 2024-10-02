@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "908652d2826d96b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -171,15 +183,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "17e467f8504e2146",
+  "active": "7cdcad7dd52dee8e",
   "lastOpenFiles": [
+    "MIT",
+    "Linux/Linux.md",
+    "未命名.md",
+    "Linux/MIT.md",
     "English/雅思.md",
     "Pasted image 20240908140304.png",
     "Pasted image 20240908140156.png",
     "Pasted image 20240908140114.png",
     "English/Spoken English.md",
     "English/English sentense.md",
-    "Linux/Linux.md",
     "English/Musk-加州理工演讲.md",
     "language/Python.md",
     "language/C++.md",
