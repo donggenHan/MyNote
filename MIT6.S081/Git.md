@@ -14,6 +14,11 @@ git reset --hard HEAD^
 `--soft`会回退到上个版本的未提交状态
 `--mixed`会回退到上个版本已添加但未提交的状态。
 ```
+- `HEAD`指向的版本就是当前版本，因此，Git允许我们在版本的历史之间穿梭，使用命令`git reset --hard commit_id`
+- 用`git reflog`查看命令历史，以便确定要回到未来的哪个版本
+
+Git和其他版本控制系统如SVN的一个不同之处就是有暂存区的概念
+
 # Chapter 1. Repositories and Branches
 - The best way to get one is by using the **git-clone** command to download a copy of an existing repository.
 ```
