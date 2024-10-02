@@ -9,3 +9,8 @@ $ git clone git://git.kernel.org/pub/scm/git/git.git
 
 - Git is best thought of as a tool for **storing the history of a collection of files**. It stores the history **as a compressed collection of interrelated snapshots of the project’s contents**. In Git each such version is called a [commit](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html#def_commit).
 - Those snapshots aren’t necessarily all arranged in a single line from oldest to newest; instead, work may simultaneously proceed along parallel lines of development, called [branches](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html#def_branch), which may merge and diverge.
+- A single Git repository can track development on multiple branches. It does this by keeping a list of [heads](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html#def_head) which reference **the latest commit on each branch**; the [git-branch(1)](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-branch.html) command shows you **the list of branch heads**:
+```
+$ git branch
+* master
+```
