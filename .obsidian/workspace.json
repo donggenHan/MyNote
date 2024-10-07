@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a328b66057b27f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MIT6.S081/XV6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MIT6.S081/Git.md",
+                "file": "MIT6.S081/XV6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MIT6.S081/Git.md",
+                "file": "MIT6.S081/XV6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MIT6.S081/Git.md"
+                "file": "MIT6.S081/XV6.md"
               }
             }
           }
@@ -159,14 +171,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "908652d2826d96b9",
+  "active": "7cdcad7dd52dee8e",
   "lastOpenFiles": [
+    "MIT6.S081/Git.md",
+    "MIT6.S081/XV6.md",
     "repo.png",
     "Pasted image 20241002204456.png",
     "Linux/MIT.md",
     "MIT6.S081",
     "Linux/Linux.md",
-    "MIT6.S081/Git.md",
     "English/雅思.md",
     "Pasted image 20240908140304.png",
     "Pasted image 20240908140156.png",
