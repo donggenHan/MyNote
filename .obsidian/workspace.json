@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "English/English sentense.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "93c00f8cc6d52010",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "English/English sentense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "English/English sentense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux.md"
+                "file": "English/English sentense.md"
               }
             }
           }
@@ -172,8 +173,9 @@
   },
   "active": "17e467f8504e2146",
   "lastOpenFiles": [
-    "MIT6.S081/Git.md",
+    "English/Spoken English.md",
     "Linux/Linux.md",
+    "MIT6.S081/Git.md",
     "MIT6.S081/XV6.md",
     "repo.png",
     "Pasted image 20241002204456.png",
@@ -183,7 +185,6 @@
     "Pasted image 20240908140304.png",
     "Pasted image 20240908140156.png",
     "Pasted image 20240908140114.png",
-    "English/Spoken English.md",
     "English/English sentense.md",
     "English/Musk-加州理工演讲.md",
     "language/Python.md",
