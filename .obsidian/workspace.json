@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,15 +170,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7cdcad7dd52dee8e",
+  "active": "17e467f8504e2146",
   "lastOpenFiles": [
     "MIT6.S081/Git.md",
+    "Linux/Linux.md",
     "MIT6.S081/XV6.md",
     "repo.png",
     "Pasted image 20241002204456.png",
     "Linux/MIT.md",
     "MIT6.S081",
-    "Linux/Linux.md",
     "English/雅思.md",
     "Pasted image 20240908140304.png",
     "Pasted image 20240908140156.png",
