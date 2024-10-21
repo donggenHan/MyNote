@@ -14,5 +14,6 @@ STEP 4: Today, I met Mr.piao and
 - 足够撑伞的雨：A light shower
 - 雨坑：puddle
 - 蒸发：Evaporating
-- 
-- 
+- 排水渠道：ditch
+- 小溪：Stream
+- 池塘：Pond
