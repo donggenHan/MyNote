@@ -12,3 +12,7 @@ STEP 4: Today, I met Mr.piao and
 - 大雨：Drizzle
 - 倾盆的大雨：Pouring
 - 足够撑伞的雨：A light shower
+- 雨坑：puddle
+- 蒸发：Evaporating
+- 
+- 
