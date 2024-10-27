@@ -18,4 +18,13 @@ STEP 4: Today, I met Mr.piao and
 - 小溪：Stream
 - 池塘：Pond
 
-## 
+## The invitation(Luke)
+- invite someone **over**：邀请到家里
+- set off：start your journey
+- dreary：沉闷的
+- beckon：wave your hand and invite
+- run a few errands：do some small jobs
+- enduring：long time
+- assure：说服
+- dreadful：awful，terrible
+- To this day：until now
