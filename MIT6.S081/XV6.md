@@ -1,3 +1,6 @@
+# 0. XV6
+ - CTRL a + c
+
 # 1. 基础
 Command-Line Arguments：命令行参数
 ```
