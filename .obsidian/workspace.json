@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/English sentense.md",
+                "file": "MIT6.S081/XV6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English sentense"
+              "title": "XV6"
             }
           },
           {
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "93c00f8cc6d52010",
@@ -191,16 +190,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "17e467f8504e2146",
+  "active": "7cdcad7dd52dee8e",
   "lastOpenFiles": [
-    "MIT6.S081/XV6.md",
     "MIT6.S081/Git.md",
+    "MIT6.S081/XV6.md",
+    "Pasted image 20240414142826.png",
+    "Linux/MIT.md",
     "English/English sentense.md",
     "English/Spoken English.md",
     "Linux/Linux.md",
     "repo.png",
     "Pasted image 20241002204456.png",
-    "Linux/MIT.md",
     "MIT6.S081",
     "English/雅思.md",
     "Pasted image 20240908140304.png",
@@ -211,7 +211,6 @@
     "language/C++.md",
     "language/Pasted image 20240320195158.png",
     "language/Pasted image 20240408193816.png",
-    "Pasted image 20240414142826.png",
     "Pasted image 20240408214734.png",
     "Pasted image 20240408214750.png",
     "English/未命名",
