@@ -4,9 +4,16 @@
  - 测试：./grade-lab-util sleep
  - 评分：make grade
 
-- QEMU：硬件模拟器
+- QEMU：硬件模拟器，模拟了CPU和计算机
 
-# # C language
+# Operating System
+
+ - Effective BUT Abstracted
+ - Powerful BUT Simple
+ - Flexible BUT Safe
+
+
+# C language
 Command-Line Arguments：命令行参数
 
 - argc 是argument count的缩写表示传入main函数中的参数个数，包括这个程序本身
