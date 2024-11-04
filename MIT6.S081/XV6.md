@@ -4,6 +4,8 @@
  - 测试：./grade-lab-util sleep
  - 评分：make grade
 
+- QEMU：硬件模拟器
+
 # # C language
 Command-Line Arguments：命令行参数
 
