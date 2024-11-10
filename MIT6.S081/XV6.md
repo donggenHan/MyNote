@@ -25,4 +25,6 @@ void main(int argc,char** argv)
  - argv是char**类型的，它的作用是存储用户从命令行传递进来的参数。它的第一个成员是用户运行的程序名字。
 ```
 
+Fork()：生成一个子进程和父进程，子先；子进程PID为0
+
 # Lab1:Utilities
